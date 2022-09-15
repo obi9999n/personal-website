@@ -18,17 +18,6 @@ class About extends Component {
          </div>
          <div className="nine columns main-col">
             <p>{bio}</p>
-            <div className="row">
-               <div className="columns contact-details">
-                  <h2>Contact Details</h2>
-                     <span>{email}</span>
-               </div>
-               <div className="columns download">
-                  <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>View Resume</a>
-                  </p>
-               </div>
-            </div>
          </div>
       </div>
 

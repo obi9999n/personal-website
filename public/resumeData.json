@@ -4,27 +4,20 @@
     "occupation": "student",
     "description": "",
     "image": "obiimage.jpg",
-    "bio": "I am a student working towards a B.S in Computer Science at the University of Georgia. I want to expand on my programming skills by working on practical applications in a professional setting.",
+    "bio": "A student working towards a B.S in Computer Science at the University of Georgia. Experienced with modern tech stacks.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "okn69169@uga.edu",
-    "phone": "404-518-5718",
-    "address": {
-      "street": "(Your Street)",
-      "city": "Athens/Atlanta, Georgia",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
-    },
     "website": "https://obi-personal-website.netlify.app/",
     "resumedownload": "https://docs.google.com/document/d/1GUtrilpiLyAO3cmK377nxgLKvPBfeGKyS5l_Rr69lLU/edit?usp=sharing",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/obi-nnaduruaku/",
+        "url": "https://www.linkedin.com/in/kPokn6916943/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/obi9999n",
+        "url": "https://github.com/okn69169",
         "className": "fa fa-github"
       }
     ]
@@ -36,61 +29,39 @@
         "school": "University of Georgia",
         "degree": "Computer Science",
         "graduated": "Graduating December 2022",
-        "description": "Coursework: Systems Programming, Data Structures, Computer Architecture, Web Programming, Software Engineering, Computer Networks"
+        "description": "Coursework: Systems Programming, Data Structures, Computer Architecture, Web Programming, Software Engineering, Computer Networks, Database Management"
       }
     ],
     "work": [
       {
-        "company": "ADP",
-        "title": "Application Developer Intern",
-        "years": "May 2022 - Present",
-        "description1": "- TBD"
-      },
-      {
         "company": "UGA Computational Plant Science",
         "title": "PlantIT Web Developer (Part-Time)",
-        "years": "November 2021 - Present",
-        "description1": "- Refactored API calls to the database with Vuex, decreasing homepage load times by 15%", 
-        "description2": "- Added features to the front end of the web application using Javascript (VueJs), HTML and CSS",
-        "description3": "- Monitored Docker container logs and performed database migrations with Django",
-        "description4": "- Maintained and updated documentation"
+        "years": "November 2021 - Present"
       },
       {
         "company": "ADP",
         "title": "Application Developer Intern",
-        "years": "June 2021 - August 2021",
-        "description1": "- Updated a user interface for an employee onboarding web application", 
-        "description2": "- Implemented the functionality of the UI using TypeScript (React), Redux, HTML and CSS, improving overall user experience",
-        "description3": "- Provided updates to senior team members while adhering to the project timeline"
+        "years": "June 2022 - August 2022"
+      },
+      {
+        "company": "ADP",
+        "title": "Application Developer Intern",
+        "years": "June 2021 - August 2021"
       },
       {
         "company": "Georgia Tech Gift Internship",
         "title": "Application Developer Intern",
-        "years": "June 2018 - July 2018",
-        "description1": "- Researched wave propagation through water, analyzing data using MATLAB",
-        "description2": "- Utilized SolidWorks to design 3D printed models used to test hypotheses"
+        "years": "June 2018 - July 2018"
       }
     ],
     "skills": [
       {
         "name": "Java",
-        "level": "50%"
-      },
-      {
-        "name": "Python",
-        "level": "40%"
+        "level": "70%"
       },
       {
         "name": "JavaScript / TypeScript",
         "level": "60%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
       },
       {
         "name": "CSS",
@@ -102,7 +73,7 @@
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "SQL",
@@ -114,9 +85,9 @@
     "projects": [
       {
         "title": "Atlanta Bookstore",
-        "category": "Software Engineering 4050 project, fullstack website using Javascript, HTML, CSS, SQL, and PHP",
+        "category": "Software Engineering Project (JavaScript, HTML, CSS, SQL, PHP)",
         "image": "atlbookstore3.png",
-        "url": "https://github.com/obi9999n/4050-PROTOTYPE0.1"
+        "url": "https://github.com/obi9999n/4050-PROTOTYPE0.1.git"
       },
       {
         "title": "PlantIT",
@@ -134,7 +105,7 @@
         "title": "React Weather App",
         "category": "Web app displaying temperature and current weather forecast for cities worldwide, made with React",
         "image": "reactweather.png",
-        "url": "https://github.com/obi9999n/React-Weather-App"
+        "url": ""
       }
     ]
   },
